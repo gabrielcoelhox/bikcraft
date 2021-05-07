@@ -12,6 +12,7 @@ p {
 
 img {
     display: block;
+    max-width: 100%;
 }
 
 .btn {
@@ -130,6 +131,7 @@ img {
     color: #fff;
     font-weight: bold;
     text-transform: uppercase;
+    text-shadow: 0 2px 5px #000;
 }
 
 .quote-externo {
@@ -168,6 +170,7 @@ img {
     text-align: center;
     color: #fff;
     padding-top: 30px;
+    text-shadow: 0 2px 3px #000;
 }
 
 .introducao-interna h1 {
