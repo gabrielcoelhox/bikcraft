@@ -8,7 +8,7 @@ Ensinar na prática como criar um site responsivo do zero. Do Design ao Código,
 
 ## Grade do curso
 
-1. <b>Introdução</b></br>
+1. <b>Introdução</b> </br>
    O curso e a Interface
 
 2. <b>Teoria do Design</b> </br>
@@ -25,10 +25,10 @@ Ensinar na prática como criar um site responsivo do zero. Do Design ao Código,
 
 ## 📷 Veja 📷
 
-## Tela do jogo
+## Home
 
 ![IMG](github/img1.png)
 
-## Demonstração
+## Demonstração Mobile
 
 ![GIF](github/mobile.gif)
