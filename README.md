@@ -27,8 +27,8 @@ Ensinar na prática como criar um site responsivo do zero. Do Design ao Código,
 
 ## Tela do jogo
 
-![IMG](github/tela1.png)
+![IMG](github/img1.png)
 
 ## Demonstração
 
-![GIF](github/animacao.gif)
+![GIF](github/mobile.gif)
